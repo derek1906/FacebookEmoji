@@ -6,9 +6,10 @@ This is a UserScript which adds an Emoji selector in Facebook.
 ![screenshot #2](screenshots/2.png)
 
 ##How to Install##
+Install `script.user.js` and that's it.
 
-* Firefox: Install `script.user.js` via [Greasemonkey](https://addons.mozilla.org/firefox/addon/748)
-* Chrome: Install `script.user.js` via [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+* Firefox: Via [Greasemonkey](https://addons.mozilla.org/firefox/addon/748), [install](https://github.com/derek1906/FacebookEmoji/raw/master/script.user.js)
+* Chrome: Via [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en), [install](https://github.com/derek1906/FacebookEmoji/raw/master/script.user.js)
 * For other, please see [here](http://userscripts.org/about/installing).
 
 ##What Will Your Code Do?##
