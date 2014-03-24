@@ -2,6 +2,8 @@
 
 This is a UserScript which adds an Emoji selector in Facebook. 
 
+![screenshot #1](screenshots/1.png)
+
 ##How to Install##
 
 * Firefox: Install `script.user.js` via [Greasemonkey](https://addons.mozilla.org/firefox/addon/748)
