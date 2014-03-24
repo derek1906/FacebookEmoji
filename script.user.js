@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Facebook Emoji
-// @namespace  http://derek-utilities.appspot.com/
+// @namespace  http://utilities-derek.appspot.com/
 // @version    1.0
 // @description  Facebook Emoji
 // @match      https://www.facebook.com/*
