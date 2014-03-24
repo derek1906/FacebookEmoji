@@ -3,6 +3,7 @@
 This is a UserScript which adds an Emoji selector in Facebook. 
 
 ![screenshot #1](screenshots/1.png)
+![screenshot #2](screenshots/2.png)
 
 ##How to Install##
 
